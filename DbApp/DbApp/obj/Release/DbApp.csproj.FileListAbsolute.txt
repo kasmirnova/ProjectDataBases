@@ -1,0 +1,13 @@
+D:\University\Kate\ApplicationDb\DbApp\DbApp\bin\Release\DatabaseUsers.mdf
+D:\University\Kate\ApplicationDb\DbApp\DbApp\bin\Release\DatabaseUsers_log.ldf
+D:\University\Kate\ApplicationDb\DbApp\DbApp\bin\Release\DbApp.exe.config
+D:\University\Kate\ApplicationDb\DbApp\DbApp\bin\Release\DbApp.exe
+D:\University\Kate\ApplicationDb\DbApp\DbApp\bin\Release\DbApp.pdb
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Release\DbApp.Form1.resources
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Release\DbApp.OptionForm.resources
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Release\DbApp.Properties.Resources.resources
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Release\DbApp.csproj.GenerateResource.cache
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Release\DbApp.csproj.CoreCompileInputs.cache
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Release\DbApp.exe
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Release\DbApp.pdb
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Release\DbApp.csproj.AssemblyReference.cache

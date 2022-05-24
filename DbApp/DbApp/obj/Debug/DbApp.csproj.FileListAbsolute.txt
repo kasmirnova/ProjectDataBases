@@ -1,0 +1,13 @@
+D:\University\Kate\ApplicationDb\DbApp\DbApp\bin\Debug\DbApp.exe.config
+D:\University\Kate\ApplicationDb\DbApp\DbApp\bin\Debug\DbApp.exe
+D:\University\Kate\ApplicationDb\DbApp\DbApp\bin\Debug\DbApp.pdb
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Debug\DbApp.csproj.AssemblyReference.cache
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Debug\DbApp.Form1.resources
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Debug\DbApp.Properties.Resources.resources
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Debug\DbApp.csproj.GenerateResource.cache
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Debug\DbApp.csproj.CoreCompileInputs.cache
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Debug\DbApp.exe
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Debug\DbApp.pdb
+D:\University\Kate\ApplicationDb\DbApp\DbApp\obj\Debug\DbApp.OptionForm.resources
+D:\University\Kate\ApplicationDb\DbApp\DbApp\bin\Debug\DatabaseUsers.mdf
+D:\University\Kate\ApplicationDb\DbApp\DbApp\bin\Debug\DatabaseUsers_log.ldf
