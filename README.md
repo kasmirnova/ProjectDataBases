@@ -6,7 +6,7 @@ Main functionality:
  - deleting data from the database.
 
 How the program looks like at startup:
-![startApp](https://user-images.githubusercontent.com/58857042/170107564-134caef7-1bc4-4167-af71-a78fb0e93a05.png)
+![starttApp](https://user-images.githubusercontent.com/58857042/170111605-948e8a8d-58b7-44b7-aa43-5d7c0d321260.png)
 
 Filling with data. Those columns that have 1 on the first run should only be filled with Int, Double:
 ![dataFilling](https://user-images.githubusercontent.com/58857042/170107578-5e6b872e-cf45-49f7-a283-93e4b6a55366.png)
